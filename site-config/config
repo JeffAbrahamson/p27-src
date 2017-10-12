@@ -21,3 +21,4 @@
 ^.*js$			empty		CopyCompositor
 ^.*css$			empty		CopyCompositor
 ^.*pdf$			empty		CopyCompositor
+^.*svg$			empty		CopyCompositor
